@@ -1,0 +1,44 @@
+# ======================
+# Python / Backend
+# ======================
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+
+# Virtual environments
+backend/deepfake_detector/
+
+# Environment files
+*.env
+.env
+.env.*
+
+# VSCode or other IDE/editor config
+.vscode/
+*.code-workspace
+
+# Mac system files
+.DS_Store
+
+
+# ======================
+# Node / Frontend
+# ======================
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Environment files
+frontend/.env
+frontend/.env.*.local
