@@ -5,4 +5,5 @@ torchvision
 pillow
 opencv-python
 matplotlibclear
-python-multipart  # For image upload
+python-multipart
+transformers  
