@@ -4,6 +4,6 @@ torch
 torchvision
 pillow
 opencv-python
-matplotlibclear
+matplotlib
 python-multipart
 transformers  
